@@ -1,0 +1,14 @@
+{
+  "name": "nira-fake-server",
+  "version": "1.0.0",
+  "description": "fake server for nira app",
+  "main": "index.js",
+  "scripts": {
+    "json-server" : "json-server --watch db.json"
+  },
+  "author": "binarians",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
