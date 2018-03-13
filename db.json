@@ -1,7 +1,8 @@
 {
     "samples": [
-        {
-            "id" : "1",
+        { 
+          "username": "piyush"
+          "id" : "1",
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "UP",
@@ -29,7 +30,8 @@
             "Total_Water_Quality_Index" : "3"
         },
         {
-            "id" : "1",
+           "username" = "ridima"
+            "id" : "2",
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "HP",
@@ -57,7 +59,9 @@
             "Total_Water_Quality_Index" : "3"
         },
         {
-            "id" : "1",
+      
+            "username" ="vibhor" 
+            "id" : "3",
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "HR",
@@ -84,7 +88,8 @@
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : "3"
         }, {
-            "id" : "1",
+            "username" = "srirang"
+            "id" : "4",
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "MH",
@@ -111,8 +116,9 @@
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : "3"
         },
-        {
-            "id" : "1",
+        { 
+            "username" ="dikshiya"
+            "id" : "5",
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "DL",
@@ -140,7 +146,8 @@
             "Total_Water_Quality_Index" : "3"
         },
         {
-            "id" : "1",
+            "username" = "ankur"
+            "id" : "6",
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "UK",
