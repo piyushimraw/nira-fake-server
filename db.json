@@ -1,7 +1,7 @@
 {
     "samples": [
         {
-            "id" : "1",
+            "id" : 1,
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "UP",
@@ -10,26 +10,26 @@
                 "Color_of_water" : "Black",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : "0.5",
-                    "Chloride" : "4.5",
-                    "Potasium" : "18",
-                    "Calcium"  : "27",
-                    "Manganese": "3",
-                    "Magnesium": "4",
-                    "lead"     : "4",
-                    "mercury"  : "2",
-                    "Arsenic"  : "3"
+                    "Sodium" : 0.5,
+                    "Chloride" : 4.5,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 3,
+                    "Magnesium": 4,
+                    "lead"     : 4,
+                    "mercury"  : 2,
+                    "Arsenic"  : 3
                 },
-                "Disolved_Oxygen": "34"
+                "Disolved_Oxygen": 34
             },            
-            "Temprature"   : "34",
+            "Temprature"   : 34,
             "River"        : "Yamuna",
             "Time_Of_Sample" : "03-02-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : "3"
         },
         {
-            "id" : "2",
+            "id" : 2,
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "HP",
@@ -57,7 +57,7 @@
             "Total_Water_Quality_Index" : "3"
         },
         {
-            "id" : "3",
+            "id" : 3,
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "HR",
@@ -84,7 +84,7 @@
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : "3"
         }, {
-            "id" : "4",
+            "id" : 4,
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "MH",
@@ -112,7 +112,7 @@
             "Total_Water_Quality_Index" : "3"
         },
         {
-            "id" : "5",
+            "id" : 5,
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "DL",
@@ -140,7 +140,7 @@
             "Total_Water_Quality_Index" : "3"
         },
         {
-            "id" : "6",
+            "id" : 6,
             "CoOrdinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "UK",
