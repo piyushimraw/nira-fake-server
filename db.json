@@ -26,7 +26,7 @@
             "River"        : "Yamuna",
             "Time_Of_Sample" : "03-02-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : "3"
+            "Total_Water_Quality_Index" : 3
         },
         {
             "id" : 2,
@@ -52,9 +52,9 @@
             },            
             "Temprature"   : "34",
             "River"        : "Ganga",
-            "Time_Of_Sample" : "03-02-2014",
+            "Time_Of_Sample" : "03-03-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : "3"
+            "Total_Water_Quality_Index" : 4.2
         },
         {
             "id" : 3,
@@ -80,9 +80,9 @@
             },            
             "Temprature"   : "34",
             "River"        : "Ganga",
-            "Time_Of_Sample" : "03-02-2014",
+            "Time_Of_Sample" : "03-04-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : "3"
+            "Total_Water_Quality_Index" : 5
         }, {
             "id" : 4,
             "CoOrdinates" : "23E 34N",
@@ -107,9 +107,9 @@
             },            
             "Temprature"   : "34",
             "River"        : "Satluz",
-            "Time_Of_Sample" : "03-02-2014",
+            "Time_Of_Sample" : "03-05-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : "3"
+            "Total_Water_Quality_Index" : "6"
         },
         {
             "id" : 5,
@@ -135,9 +135,9 @@
             },            
             "Temprature"   : "34",
             "River"        : "Yamuna",
-            "Time_Of_Sample" : "03-02-2014",
+            "Time_Of_Sample" : "03-01-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : "3"
+            "Total_Water_Quality_Index" : 2.3
         },
         {
             "id" : 6,
@@ -163,9 +163,9 @@
             },            
             "Temprature"   : "34",
             "River"        : "Ganga",
-            "Time_Of_Sample" : "03-02-2014",
+            "Time_Of_Sample" : "03-07-2015",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : "3"
+            "Total_Water_Quality_Index" : 9
         }
     ]
 }
