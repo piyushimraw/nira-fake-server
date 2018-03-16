@@ -38,17 +38,17 @@
                 "Color_of_water" : "Black",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : "0.5",
-                    "Chloride" : "4.5",
-                    "Potasium" : "18",
-                    "Calcium"  : "27",
-                    "Manganese": "3",
-                    "Magnesium": "4",
-                    "lead"     : "4",
-                    "mercury"  : "2",
-                    "Arsenic"  : "3"
+                    "Sodium" :  0.5,
+                    "Chloride" : 4.5,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 3,
+                    "Magnesium": 4,
+                    "lead"     : 4,
+                    "mercury"  : 2,
+                    "Arsenic"  : 3
                 },
-                "Disolved_Oxygen": "34"
+                "Disolved_Oxygen": 34
             },            
             "Temprature"   : "34",
             "River"        : "Ganga",
@@ -66,17 +66,17 @@
                 "Color_of_water" : "Black",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : "0.5",
-                    "Chloride" : "4.5",
-                    "Potasium" : "18",
-                    "Calcium"  : "27",
-                    "Manganese": "3",
-                    "Magnesium": "4",
-                    "lead"     : "4",
-                    "mercury"  : "2",
-                    "Arsenic"  : "3"
+                    "Sodium" : 0.5,
+                    "Chloride" : 4.5,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 3,
+                    "Magnesium": 4,
+                    "lead"     : 4,
+                    "mercury"  : 2,
+                    "Arsenic"  : 3
                 },
-                "Disolved_Oxygen": "34"
+                "Disolved_Oxygen":3
             },            
             "Temprature"   : "34",
             "River"        : "Ganga",
@@ -93,17 +93,17 @@
                 "Color_of_water" : "Black",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : "0.5",
-                    "Chloride" : "4.5",
-                    "Potasium" : "18",
-                    "Calcium"  : "27",
-                    "Manganese": "3",
-                    "Magnesium": "4",
-                    "lead"     : "4",
-                    "mercury"  : "2",
-                    "Arsenic"  : "3"
+                    "Sodium" : 0.5,
+                    "Chloride" : 4.5,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 3,
+                    "Magnesium": 4,
+                    "lead"     : 4,
+                    "mercury"  : 2,
+                    "Arsenic"  : 3
                 },
-                "Disolved_Oxygen": "34"
+                "Disolved_Oxygen": 34
             },            
             "Temprature"   : "34",
             "River"        : "Satluz",
@@ -121,17 +121,17 @@
                 "Color_of_water" : "Black",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : "0.5",
-                    "Chloride" : "4.5",
-                    "Potasium" : "18",
-                    "Calcium"  : "27",
-                    "Manganese": "3",
-                    "Magnesium": "4",
-                    "lead"     : "4",
-                    "mercury"  : "2",
-                    "Arsenic"  : "3"
+                    "Sodium" : 0.5,
+                    "Chloride" : 4.5,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 3,
+                    "Magnesium": 4,
+                    "lead"     : 4,
+                    "mercury"  : 2,
+                    "Arsenic"  : 3
                 },
-                "Disolved_Oxygen": "34"
+                "Disolved_Oxygen": 34
             },            
             "Temprature"   : "34",
             "River"        : "Yamuna",
@@ -149,17 +149,17 @@
                 "Color_of_water" : "Black",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : "0.5",
-                    "Chloride" : "4.5",
-                    "Potasium" : "18",
-                    "Calcium"  : "27",
-                    "Manganese": "3",
-                    "Magnesium": "4",
-                    "lead"     : "4",
-                    "mercury"  : "2",
-                    "Arsenic"  : "3"
+                    "Sodium" : 0.5,
+                    "Chloride" : 4.5,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 3,
+                    "Magnesium": 4,
+                    "lead"     : 4,
+                    "mercury"  : 2,
+                    "Arsenic"  : 3
                 },
-                "Disolved_Oxygen": "34"
+                "Disolved_Oxygen": 34
             },            
             "Temprature"   : "34",
             "River"        : "Ganga",
