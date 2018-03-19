@@ -2,7 +2,10 @@
     "samples": [
         {
             "id" : 1,
-            "CoOrdinates" : "23E 34N",
+            "Cordinates" : {
+                "lat": 27.176670,
+                "long": 78.008075
+            },
             "District" : "Ulfa",
             "State" : "UP",
             "Water_Quality_Indicators" : {
@@ -30,7 +33,10 @@
         },
         {
             "id" : 2,
-            "CoOrdinates" : "23E 34N",
+            "Cordinates" : {
+                "lat" : 31.104814,
+                "long": 77.173403
+            },
             "District" : "Ulfa",
             "State" : "HP",
             "Water_Quality_Indicators" : {
@@ -58,7 +64,10 @@
         },
         {
             "id" : 3,
-            "CoOrdinates" : "23E 34N",
+            "Cordinates" : {
+                "lat" : 30.733315,
+                "long" : 76.779418
+            },
             "District" : "Ulfa",
             "State" : "HR",
             "Water_Quality_Indicators" : {
@@ -85,7 +94,7 @@
             "Total_Water_Quality_Index" : 5
         }, {
             "id" : 4,
-            "CoOrdinates" : "23E 34N",
+            "Cordinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "MH",
             "Water_Quality_Indicators" : {
@@ -113,7 +122,7 @@
         },
         {
             "id" : 5,
-            "CoOrdinates" : "23E 34N",
+            "Cordinates" : "23E 34N",
             "District" : "Ulfa",
             "State" : "DL",
             "Water_Quality_Indicators" : {
@@ -141,7 +150,10 @@
         },
         {
             "id" : 6,
-            "CoOrdinates" : "23E 34N",
+            "Cordinates" : {
+                "lat": 29.945691,
+                "long":78.164248
+            },
             "District" : "Ulfa",
             "State" : "UK",
             "Water_Quality_Indicators" : {
