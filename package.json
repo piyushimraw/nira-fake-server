@@ -4,7 +4,7 @@
   "description": "fake server for nira app",
   "main": "index.js",
   "scripts": {
-    "json-server" : "json-server -p 4000  --watch db.json"
+    "json-server": "json-server -p 4000  --watch db.json"
   },
   "author": "binarians",
   "license": "ISC",
