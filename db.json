@@ -1,217 +1,622 @@
 {
     "samples": [
         {
-            "id" : 1,
-            "Cordinates" :
-                "lat":	29.998838  ,
-                "long": 78.227725
+            "id" : 41,
+            "Cordinates" : {
+                "lat": 27.176670,
+                "long": 78.008075
             },
-            "District" : "Dehradun",
-            "State" : "Uttrakhand",
+            "District" : "Noida",
+            "State" : "UP",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "658",
-                "Color_of_water" : "Murkish",
-                "pH" : "6.9",
-                "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 13,
-                    "Chloride" :623 ,
-                    "Potasium" : 16,
-                    "Calcium"  : 23,
-                    "Manganese": 0.1,
-                    "Magnesium": 25,
-                    "lead"     : 0.04,
-                    "mercury"  : 0.025,
-                    "Arsenic"  : 0.002
-                },
-                "Disolved_Oxygen":
-            },
-            "Temprature"   : 29,
-            "River"        : "Ganga",
-            "Time_Of_Sample" : "03-02-2014",
-            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : 7.8
-        },
-        {
-            "id" : 2,
-             "Cordinates" : {
-                "lat" : 29.2566665,
-                "long": 78.171721
-            },
-            "District" : "Haridwar",
-            "State" : "Uttar pradesh",
-            "Water_Quality_Indicators" : {
-                "Alkalinity" : "456",
-                "Color_of_water" : "muddy",
+                "Alkalinity" : "305",
+                "Color_of_water" : "Black",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" :  0.5,
-                    "Chloride" : 4.5,
+                    "Sodium" : 1.9,
+                    "Chloride" : 318.3,
+                    "Potasium" : 18,
+                    "Calcium"  : 28,
+                    "Manganese": 0.8,
+                    "Magnesium": 4,
+                    "lead"     : 0.09,
+                    "mercury"  : 2,
+                    "Arsenic"  : 0.6
+                },
+                "Disolved_Oxygen": 14
+            },
+            "Temprature"   : 34,
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "03-02-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 2
+        },
+        {
+            "id" : 42,
+            "Cordinates" : {
+                "lat" : 28.700939,
+                "long": 77.272102
+            },
+            "District" : "Shahdara",
+            "State" : "Delhi",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "709",
+                "Color_of_water" : "Muddy",
+                "pH" : "9",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  41,
+                    "Chloride" : 772,
+                    "Potasium" : 29,
+                    "Calcium"  : 37,
+                    "Manganese": 3,
+                    "Magnesium": 45,
+                    "lead"     : 0.3,
+                    "mercury"  : 0.07,
+                    "Arsenic"  : 0.02
+                },
+                "Disolved_Oxygen": 34
+            },
+            "Temprature"   : "39",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "04-06-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 2.7
+        },
+        {
+            "id" : 43,
+            "Cordinates" : {
+                "lat" : 28.4937944,
+                "long" : 77.354944
+            },
+            "District" : "Faridabad",
+            "State" : "Haryana",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "323",
+                "Color_of_water" : "Black",
+                "pH" : "7.6",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 13,
+                    "Chloride" : 200,
                     "Potasium" : 18,
                     "Calcium"  : 27,
-                    "Manganese": 3,
-                    "Magnesium": 4,
-                    "lead"     : 4,
-                    "mercury"  : 2,
-                    "Arsenic"  : 3
+                    "Manganese": 0,
+                    "Magnesium": 50,
+                    "lead"     : 0.06,
+                    "mercury"  : 0.01,
+                    "Arsenic"  : 0.08
+                },
+                "Disolved_Oxygen":27
+            },
+            "Temprature"   : "34",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "02-07-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 5
+        }, {
+            "id" : 44,
+            "Cordinates" : {
+                "lat" : 28.471217,
+                "long" : 77.407233
+              },
+            "District" : "Dostpur Mangroli Kadar",
+            "State" : "Uttar Pradesh",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "123",
+                "Color_of_water" : "Brownish Black",
+                "pH" : "4.1",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 5,
+                    "Chloride" : 445,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 0.06,
+                    "Magnesium": 26,
+                    "lead"     : 0.07,
+                    "mercury"  : 0.02,
+                    "Arsenic"  : 0.01
                 },
                 "Disolved_Oxygen": 34
             },
             "Temprature"   : "34",
-            "River"        : "Ganga",
-            "Time_Of_Sample" : "03-03-2014",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "03-08-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : 4.2
+            "Total_Water_Quality_Index" : "6.3"
         },
         {
-            "id" : 3,
+            "id" : 45,
             "Cordinates" : {
-                "lat" : 25.682629,
-                "long" : 85.191410
+                "lat" : 28.439565,
+                "long" : 77.449151
             },
-            "District" : "Hajipur",
-            "State" : "Bihar",
+            "District" : "Kambakshpur",
+            "State" : "Uttar Pradesh",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "759",
-                "Color_of_water" : "Black",
-                "pH" : "8.9",
+                "Alkalinity" : "",
+                "Color_of_water" : "Pale Yellow",
+                "pH" : "8",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 5,
-                    "Chloride" : 757,
-                    "Potasium" : 11,
-                    "Calcium"  : 26,
-                    "Manganese": 36,
-                    "Magnesium": 0.9,
-                    "lead"     : 0.15,
-                    "mercury"  : 0.08,
+                    "Sodium" : 41,
+                    "Chloride" : 128,
+                    "Potasium" : 29,
+                    "Calcium"  : 27,
+                    "Manganese": 0.03,
+                    "Magnesium": 35,
+                    "lead"     : 0.04,
+                    "mercury"  : 0.01,
+                    "Arsenic"  : 0.01
+                },
+                "Disolved_Oxygen": 12
+            },
+            "Temprature"   : "24",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "09-09-2015",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 5.9
+        },
+        {
+            "id" : 46,
+            "Cordinates" : {
+                "lat": 28.392715,
+                "long":77.495726
+            },
+            "District" : "Motipur",
+            "State" : "UP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "252",
+                "Color_of_water" : "Clear",
+                "pH" : "6.2",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 15,
+                    "Chloride" : 265,
+                    "Potasium" : 19,
+                    "Calcium"  : 17,
+                    "Manganese": 0.01,
+                    "Magnesium": 25,
+                    "lead"     : 0.01,
+                    "mercury"  : 0.02,
+                    "Arsenic"  : 0.03
+                },
+                "Disolved_Oxygen": 34
+            },
+            "Temprature"   : "26",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "03-07-2015",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 9.2
+        },
+        {
+            "id" : 47,
+            "Cordinates" : {
+                "lat" : 28.274977,
+                "long": 77.500463
+            },
+            "District" : "Dankaur",
+            "State" : "UP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "602",
+                "Color_of_water" : "Muddy",
+                "pH" : "4.7",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  31,
+                    "Chloride" : 699,
+                    "Potasium" : 17,
+                    "Calcium"  : 6,
+                    "Manganese": 0.02,
+                    "Magnesium": 35,
+                    "lead"     : 0.03,
+                    "mercury"  : 0.7,
+                    "Arsenic"  : 0.2
+                },
+                "Disolved_Oxygen": 51
+            },
+            "Temprature"   : "33",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "05-04-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 6.1
+        },
+        {
+            "id" : 48,
+            "Cordinates" : {
+                "lat" : 28.240408,
+                "long": 77.456474
+            },
+            "District" : "Mohiapur",
+            "State" : "Haryana",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "223",
+                "Color_of_water" : "Muddy",
+                "pH" : "4.8",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  11,
+                    "Chloride" : 672,
+                    "Potasium" : 29,
+                    "Calcium"  : 37,
+                    "Manganese": 3,
+                    "Magnesium": 45,
+                    "lead"     : 0.11,
+                    "mercury"  : 0.9,
+                    "Arsenic"  : 0.6
+                },
+                "Disolved_Oxygen": 19
+            },
+            "Temprature"   : "29",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "09-11-2016",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 3.7
+        },
+        {
+            "id" : 49,
+            "Cordinates" : {
+                "lat" : 28.162951,
+                "long": 77.476731
+            },
+            "District" : "Palwal",
+            "State" : "Haryana",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "709",
+                "Color_of_water" : "Yellowish",
+                "pH" : "9",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  41,
+                    "Chloride" : 772,
+                    "Potasium" : 29,
+                    "Calcium"  : 37,
+                    "Manganese": 0.9,
+                    "Magnesium": 25,
+                    "lead"     : 0.04,
+                    "mercury"  : 0.01,
+                    "Arsenic"  : 0.06
+                },
+                "Disolved_Oxygen": 56
+            },
+            "Temprature"   : "39",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "04-06-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 5.7
+        },
+        {
+            "id" : 50,
+            "Cordinates" : {
+                "lat" : 25.411492,
+                "long": 81.818372
+            },
+            "District" : "Allahabad",
+            "State" : "UP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "451",
+                "Color_of_water" : "light blue",
+                "pH" : "6.9",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  21,
+                    "Chloride" : 472,
+                    "Potasium" : 19,
+                    "Calcium"  : 17,
+                    "Manganese": 0.09,
+                    "Magnesium": 25,
+                    "lead"     : 0.03,
+                    "mercury"  : 0.06,
+                    "Arsenic"  : 0.01
+                },
+                "Disolved_Oxygen": 34
+            },
+            "Temprature"   : "19",
+            "River"        : "Yamuna",
+            "Time_Of_Sample" : "14-10-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 7.2
+        },
+        {
+            "id" : 51,
+            "Cordinates" : {
+                "lat": 22.723803,
+                "long": 80.313284
+            },
+            "District" : "Kodara",
+            "State" : "MP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "305",
+                "Color_of_water" : "Black",
+                "pH" : "3",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 1.9,
+                    "Chloride" : 318.3,
+                    "Potasium" : 18,
+                    "Calcium"  : 28,
+                    "Manganese": 0.8,
+                    "Magnesium": 4,
+                    "lead"     : 0.09,
+                    "mercury"  : 2,
+                    "Arsenic"  : 0.6
+                },
+                "Disolved_Oxygen": 14
+            },
+            "Temprature"   : 34,
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "03-02-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 2
+        },
+        {
+            "id" : 52,
+            "Cordinates" : {
+                "lat" : 23.013093,
+                "long": 80.805437
+            },
+            "District" : "Chhapra",
+            "State" : "MP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "709",
+                "Color_of_water" : "Muddy",
+                "pH" : "9",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  41,
+                    "Chloride" : 772,
+                    "Potasium" : 29,
+                    "Calcium"  : 37,
+                    "Manganese": 3,
+                    "Magnesium": 45,
+                    "lead"     : 0.3,
+                    "mercury"  : 0.07,
+                    "Arsenic"  : 0.02
+                },
+                "Disolved_Oxygen": 34
+            },
+            "Temprature"   : "39",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "04-06-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 2.7
+        },
+        {
+            "id" : 53,
+            "Cordinates" : {
+                "lat" : 22.942133,
+                "long" : 81.144897
+            },
+            "District" : "Udri",
+            "State" : "MP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "323",
+                "Color_of_water" : "Black",
+                "pH" : "7.6",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 13,
+                    "Chloride" : 200,
+                    "Potasium" : 18,
+                    "Calcium"  : 27,
+                    "Manganese": 0,
+                    "Magnesium": 50,
+                    "lead"     : 0.06,
+                    "mercury"  : 0.01,
                     "Arsenic"  : 0.08
                 },
-                "Disolved_Oxygen":5.48
+                "Disolved_Oxygen":27
             },
-            "Temprature"   : "31",
-            "River"        : "Ganga",
-            "Time_Of_Sample" : "03-04-2014",
+            "Temprature"   : "34",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "02-07-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : 5
         }, {
-            "id" : 4,
+            "id" : 54,
             "Cordinates" : {
-               "lat" : 29.2566665,
-               "long": 78.171721
-           },
-            "District" : "Allahaad",
-            "State" : "Uttar Pradesh",
+                "lat" : 22.880190,
+                "long" : 81.304809
+            },
+            "District" : "Lalpur",
+            "State" : "MP",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "428",
-                "Color_of_water" : "Blackish-Brown",
-                "pH" : "6.7",
+                "Alkalinity" : "123",
+                "Color_of_water" : "Brownish Black",
+                "pH" : "4.1",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 16,
-                    "Chloride" : 848,
-                    "Potasium" : 48,
-                    "Calcium"  : 23,
-                    "Manganese": 0.14,
-                    "Magnesium": 5,
-                    "lead"     : 0.073,
-                    "mercury"  : 0.0039,
-                    "Arsenic"  : 0.09
-                },
-                "Disolved_Oxygen": 6.56
-            },
-            "Temprature"   : "36",
-            "River"        : "Ganga",
-            "Time_Of_Sample" : "03-05-2014",
-            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : "6"
-        },
-        {
-            "id" : 5,
-            "Cordinates" : "",
-            "District" : "",
-            "State" : "",
-            "Water_Quality_Indicators" : {
-                "Alkalinity" : "",
-                "Color_of_water" : "",
-                "pH" : "",
-                "Dissolved_Metals_and_Salts":{
-                    "Sodium" : ,
-                    "Chloride" : ,
-                    "Potasium" : ,
-                    "Calcium"  : ,
-                    "Manganese": ,
-                    "Magnesium": ,
-                    "lead"     : ,
-                    "mercury"  : ,
-                    "Arsenic"  :
-                },
-                "Disolved_Oxygen":
-            },
-            "Temprature"   : "",
-            "River"        : "",
-            "Time_Of_Sample" : "03-01-2014",
-            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" :
-        },
-        {
-            "id" : 6,
-            "Cordinates" : {
-                "lat": 25.289.892,
-                "long": 83.007063
-            },
-            "District" : "Varanasi",
-            "State" : "Uttar pradesh",
-            "Water_Quality_Indicators" : {
-                "Alkalinity" : "581",
-                "Color_of_water" : "Black",
-                "pH" : "7.3",
-                "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 015,
-                    "Chloride" : 363,
-                    "Potasium" :29,
-                    "Calcium"  : 23,
-                    "Manganese": 0.0846,
-                    "Magnesium": 21,
-                    "lead"     : 0.054,
-                    "mercury"  : 0.0013,
-                    "Arsenic"  : 0.026
-                },
-                "Disolved_Oxygen": 5.646
-            },
-            "Temprature"   : "34",
-            "River"        : "Ganga",
-            "Time_Of_Sample" : "03-07-2015",
-            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : 9
-        }
-        {
-            "id" : 7,
-            "Cordinates" : {
-                "lat": ,
-                "long":78.164248
-            },
-            "District" : "Ghazipur",
-            "State" : "Uttar Pradesh",
-            "Water_Quality_Indicators" : {
-                "Alkalinity" : "867",
-                "Color_of_water" : "Black",
-                "pH" : "7.4",
-                "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 18.5,
-                    "Chloride" : 356,
+                    "Sodium" : 5,
+                    "Chloride" : 445,
                     "Potasium" : 18,
                     "Calcium"  : 27,
-                    "Manganese": 0.14,
+                    "Manganese": 0.06,
                     "Magnesium": 26,
-                    "lead"     : 0.037,
-                    "mercury"  : 0.0024,
-                    "Arsenic"  : 0.046
+                    "lead"     : 0.07,
+                    "mercury"  : 0.02,
+                    "Arsenic"  : 0.01
                 },
-                "Disolved_Oxygen": 6.05
+                "Disolved_Oxygen": 34
+            },
+            "Temprature"   : "34",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "03-08-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : "6.3"
+        },
+        {
+            "id" : 55,
+            "Cordinates" : {
+                "lat" : 22.685055,
+                "long" : 81.745224
+            },
+            "District" : "Kabir sarovar",
+            "State" : "MP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "",
+                "Color_of_water" : "Pale Yellow",
+                "pH" : "8",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 41,
+                    "Chloride" : 128,
+                    "Potasium" : 29,
+                    "Calcium"  : 27,
+                    "Manganese": 0.03,
+                    "Magnesium": 35,
+                    "lead"     : 0.04,
+                    "mercury"  : 0.01,
+                    "Arsenic"  : 0.01
+                },
+                "Disolved_Oxygen": 12
             },
             "Temprature"   : "24",
-            "River"        : "Ganga",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "09-09-2015",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 5.9
+        },
+        {
+            "id" : 56,
+            "Cordinates" : {
+                "lat": 22.292100,
+                "long":76.250515
+            },
+            "District" : "Rampura",
+            "State" : "MP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "252",
+                "Color_of_water" : "Clear",
+                "pH" : "6.2",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 15,
+                    "Chloride" : 265,
+                    "Potasium" : 19,
+                    "Calcium"  : 17,
+                    "Manganese": 0.01,
+                    "Magnesium": 25,
+                    "lead"     : 0.01,
+                    "mercury"  : 0.02,
+                    "Arsenic"  : 0.03
+                },
+                "Disolved_Oxygen": 34
+            },
+            "Temprature"   : "26",
+            "River"        : "Narmada",
             "Time_Of_Sample" : "03-07-2015",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : 9
+            "Total_Water_Quality_Index" : 9.2
+        },
+        {
+            "id" : 57,
+            "Cordinates" : {
+                "lat" : 22.099782,
+                "long": 75.112057
+            },
+            "District" : "Sharikpura",
+            "State" : "MP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "602",
+                "Color_of_water" : "Muddy",
+                "pH" : "4.7",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  31,
+                    "Chloride" : 699,
+                    "Potasium" : 17,
+                    "Calcium"  : 6,
+                    "Manganese": 0.02,
+                    "Magnesium": 35,
+                    "lead"     : 0.03,
+                    "mercury"  : 0.7,
+                    "Arsenic"  : 0.2
+                },
+                "Disolved_Oxygen": 51
+            },
+            "Temprature"   : "33",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "05-04-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 6.1
+        },
+        {
+            "id" : 58,
+            "Cordinates" : {
+                "lat" : 21.894778,
+                "long": 73.222408
+            },
+            "District" : "Hirjipura",
+            "State" : "Gujarat",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "223",
+                "Color_of_water" : "Muddy",
+                "pH" : "4.8",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  11,
+                    "Chloride" : 672,
+                    "Potasium" : 29,
+                    "Calcium"  : 37,
+                    "Manganese": 3,
+                    "Magnesium": 45,
+                    "lead"     : 0.11,
+                    "mercury"  : 0.9,
+                    "Arsenic"  : 0.6
+                },
+                "Disolved_Oxygen": 19
+            },
+            "Temprature"   : "29",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "09-11-2016",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 3.7
+        },
+        {
+            "id" : 59,
+            "Cordinates" : {
+                "lat" : 21.716274,
+                "long": 73.058987
+            },
+            "District" : "Bharuch",
+            "State" : "Gujarat",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "709",
+                "Color_of_water" : "Yellowish",
+                "pH" : "9",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  41,
+                    "Chloride" : 772,
+                    "Potasium" : 29,
+                    "Calcium"  : 37,
+                    "Manganese": 0.9,
+                    "Magnesium": 25,
+                    "lead"     : 0.04,
+                    "mercury"  : 0.01,
+                    "Arsenic"  : 0.06
+                },
+                "Disolved_Oxygen": 56
+            },
+            "Temprature"   : "39",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "04-06-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 5.7
+        },
+        {
+            "id" : 60,
+            "Cordinates" : {
+                "lat" : 22.135405,
+                "long": 75.397701
+            },
+            "District" : "Chichali",
+            "State" : "MP",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "451",
+                "Color_of_water" : "light blue",
+                "pH" : "6.9",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" :  21,
+                    "Chloride" : 472,
+                    "Potasium" : 19,
+                    "Calcium"  : 17,
+                    "Manganese": 0.09,
+                    "Magnesium": 25,
+                    "lead"     : 0.03,
+                    "mercury"  : 0.06,
+                    "Arsenic"  : 0.01
+                },
+                "Disolved_Oxygen": 34
+            },
+            "Temprature"   : "19",
+            "River"        : "Narmada",
+            "Time_Of_Sample" : "14-10-2014",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 7.2
         }
     ]
 }
