@@ -2,46 +2,46 @@
     "samples": [
         {
             "id" : 1,
-            "Cordinates" : {
-                "lat": 27.176670,
-                "long": 78.008075
+            "Cordinates" :
+                "lat":	29.998838  ,
+                "long": 78.227725
             },
-            "District" : "Ulfa",
-            "State" : "UP",
+            "District" : "Dehradun",
+            "State" : "Uttrakhand",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "23",
-                "Color_of_water" : "Black",
-                "pH" : "3",
+                "Alkalinity" : "658",
+                "Color_of_water" : "Murkish",
+                "pH" : "6.9",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 0.5,
-                    "Chloride" : 4.5,
-                    "Potasium" : 18,
-                    "Calcium"  : 27,
-                    "Manganese": 3,
-                    "Magnesium": 4,
-                    "lead"     : 4,
-                    "mercury"  : 2,
-                    "Arsenic"  : 3
+                    "Sodium" : 13,
+                    "Chloride" :623 ,
+                    "Potasium" : 16,
+                    "Calcium"  : 23,
+                    "Manganese": 0.1,
+                    "Magnesium": 25,
+                    "lead"     : 0.04,
+                    "mercury"  : 0.025,
+                    "Arsenic"  : 0.002
                 },
-                "Disolved_Oxygen": 34
-            },            
-            "Temprature"   : 34,
-            "River"        : "Yamuna",
+                "Disolved_Oxygen":
+            },
+            "Temprature"   : 29,
+            "River"        : "Ganga",
             "Time_Of_Sample" : "03-02-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : 3
+            "Total_Water_Quality_Index" : 7.8
         },
         {
             "id" : 2,
-            "Cordinates" : {
-                "lat" : 31.104814,
-                "long": 77.173403
+             "Cordinates" : {
+                "lat" : 29.2566665,
+                "long": 78.171721
             },
-            "District" : "Ulfa",
-            "State" : "HP",
+            "District" : "Haridwar",
+            "State" : "Uttar pradesh",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "23",
-                "Color_of_water" : "Black",
+                "Alkalinity" : "456",
+                "Color_of_water" : "muddy",
                 "pH" : "3",
                 "Dissolved_Metals_and_Salts":{
                     "Sodium" :  0.5,
@@ -55,7 +55,7 @@
                     "Arsenic"  : 3
                 },
                 "Disolved_Oxygen": 34
-            },            
+            },
             "Temprature"   : "34",
             "River"        : "Ganga",
             "Time_Of_Sample" : "03-03-2014",
@@ -65,115 +65,149 @@
         {
             "id" : 3,
             "Cordinates" : {
-                "lat" : 30.733315,
-                "long" : 76.779418
+                "lat" : 25.682629,
+                "long" : 85.191410
             },
-            "District" : "Ulfa",
-            "State" : "HR",
+            "District" : "Hajipur",
+            "State" : "Bihar",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "23",
+                "Alkalinity" : "759",
                 "Color_of_water" : "Black",
-                "pH" : "3",
+                "pH" : "8.9",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 0.5,
-                    "Chloride" : 4.5,
-                    "Potasium" : 18,
-                    "Calcium"  : 27,
-                    "Manganese": 3,
-                    "Magnesium": 4,
-                    "lead"     : 4,
-                    "mercury"  : 2,
-                    "Arsenic"  : 3
+                    "Sodium" : 5,
+                    "Chloride" : 757,
+                    "Potasium" : 11,
+                    "Calcium"  : 26,
+                    "Manganese": 36,
+                    "Magnesium": 0.9,
+                    "lead"     : 0.15,
+                    "mercury"  : 0.08,
+                    "Arsenic"  : 0.08
                 },
-                "Disolved_Oxygen":3
-            },            
-            "Temprature"   : "34",
+                "Disolved_Oxygen":5.48
+            },
+            "Temprature"   : "31",
             "River"        : "Ganga",
             "Time_Of_Sample" : "03-04-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : 5
         }, {
             "id" : 4,
-            "Cordinates" : "23E 34N",
-            "District" : "Ulfa",
-            "State" : "MH",
+            "Cordinates" : {
+               "lat" : 29.2566665,
+               "long": 78.171721
+           },
+            "District" : "Allahaad",
+            "State" : "Uttar Pradesh",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "23",
-                "Color_of_water" : "Black",
-                "pH" : "3",
+                "Alkalinity" : "428",
+                "Color_of_water" : "Blackish-Brown",
+                "pH" : "6.7",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 0.5,
-                    "Chloride" : 4.5,
-                    "Potasium" : 18,
-                    "Calcium"  : 27,
-                    "Manganese": 3,
-                    "Magnesium": 4,
-                    "lead"     : 4,
-                    "mercury"  : 2,
-                    "Arsenic"  : 3
+                    "Sodium" : 16,
+                    "Chloride" : 848,
+                    "Potasium" : 48,
+                    "Calcium"  : 23,
+                    "Manganese": 0.14,
+                    "Magnesium": 5,
+                    "lead"     : 0.073,
+                    "mercury"  : 0.0039,
+                    "Arsenic"  : 0.09
                 },
-                "Disolved_Oxygen": 34
-            },            
-            "Temprature"   : "34",
-            "River"        : "Satluz",
+                "Disolved_Oxygen": 6.56
+            },
+            "Temprature"   : "36",
+            "River"        : "Ganga",
             "Time_Of_Sample" : "03-05-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : "6"
         },
         {
             "id" : 5,
-            "Cordinates" : "23E 34N",
-            "District" : "Ulfa",
-            "State" : "DL",
+            "Cordinates" : "",
+            "District" : "",
+            "State" : "",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "23",
-                "Color_of_water" : "Black",
-                "pH" : "3",
+                "Alkalinity" : "",
+                "Color_of_water" : "",
+                "pH" : "",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 0.5,
-                    "Chloride" : 4.5,
-                    "Potasium" : 18,
-                    "Calcium"  : 27,
-                    "Manganese": 3,
-                    "Magnesium": 4,
-                    "lead"     : 4,
-                    "mercury"  : 2,
-                    "Arsenic"  : 3
+                    "Sodium" : ,
+                    "Chloride" : ,
+                    "Potasium" : ,
+                    "Calcium"  : ,
+                    "Manganese": ,
+                    "Magnesium": ,
+                    "lead"     : ,
+                    "mercury"  : ,
+                    "Arsenic"  :
                 },
-                "Disolved_Oxygen": 34
-            },            
-            "Temprature"   : "34",
-            "River"        : "Yamuna",
+                "Disolved_Oxygen":
+            },
+            "Temprature"   : "",
+            "River"        : "",
             "Time_Of_Sample" : "03-01-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
-            "Total_Water_Quality_Index" : 2.3
+            "Total_Water_Quality_Index" :
         },
         {
             "id" : 6,
             "Cordinates" : {
-                "lat": 29.945691,
+                "lat": 25.289.892,
+                "long": 83.007063
+            },
+            "District" : "Varanasi",
+            "State" : "Uttar pradesh",
+            "Water_Quality_Indicators" : {
+                "Alkalinity" : "581",
+                "Color_of_water" : "Black",
+                "pH" : "7.3",
+                "Dissolved_Metals_and_Salts":{
+                    "Sodium" : 015,
+                    "Chloride" : 363,
+                    "Potasium" :29,
+                    "Calcium"  : 23,
+                    "Manganese": 0.0846,
+                    "Magnesium": 21,
+                    "lead"     : 0.054,
+                    "mercury"  : 0.0013,
+                    "Arsenic"  : 0.026
+                },
+                "Disolved_Oxygen": 5.646
+            },
+            "Temprature"   : "34",
+            "River"        : "Ganga",
+            "Time_Of_Sample" : "03-07-2015",
+            "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
+            "Total_Water_Quality_Index" : 9
+        }
+        {
+            "id" : 7,
+            "Cordinates" : {
+                "lat": ,
                 "long":78.164248
             },
-            "District" : "Ulfa",
-            "State" : "UK",
+            "District" : "Ghazipur",
+            "State" : "Uttar Pradesh",
             "Water_Quality_Indicators" : {
-                "Alkalinity" : "23",
+                "Alkalinity" : "867",
                 "Color_of_water" : "Black",
-                "pH" : "3",
+                "pH" : "7.4",
                 "Dissolved_Metals_and_Salts":{
-                    "Sodium" : 0.5,
-                    "Chloride" : 4.5,
+                    "Sodium" : 18.5,
+                    "Chloride" : 356,
                     "Potasium" : 18,
                     "Calcium"  : 27,
-                    "Manganese": 3,
-                    "Magnesium": 4,
-                    "lead"     : 4,
-                    "mercury"  : 2,
-                    "Arsenic"  : 3
+                    "Manganese": 0.14,
+                    "Magnesium": 26,
+                    "lead"     : 0.037,
+                    "mercury"  : 0.0024,
+                    "Arsenic"  : 0.046
                 },
-                "Disolved_Oxygen": 34
-            },            
-            "Temprature"   : "34",
+                "Disolved_Oxygen": 6.05
+            },
+            "Temprature"   : "24",
             "River"        : "Ganga",
             "Time_Of_Sample" : "03-07-2015",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
