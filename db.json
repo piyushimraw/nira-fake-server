@@ -6,6 +6,7 @@
                 "lat": 27.176670,
                 "long": 78.008075
             },
+
             "District" : "Noida",
             "State" : "UP",
             "Water_Quality_Indicators" : {
@@ -25,9 +26,12 @@
                 },
                 "Disolved_Oxygen": 14
             },
-            "Temprature"   : 34,
-            "River"        : "Yamuna",
-            "Time_Of_Sample" : "03-02-2014",
+            "BOD"           : 58,
+            "Total Coliform": 8,
+            "Fecal Coliform": 7,
+            "Temprature"    : 34,
+            "River"         : "Yamuna",
+            "Time_Of_Sample": "03-02-2014",
             "Image"         : "https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.instructables.com%2FFDN%2F1NML%2FI1JVY91P%2FFDN1NMLI1JVY91P.LARGE.jpg&sp=3a662fc88a8fd575f2d225c3f34843b4",
             "Total_Water_Quality_Index" : 2
         },
@@ -56,6 +60,9 @@
                 },
                 "Disolved_Oxygen": 34
             },
+            "BOD"           : 58,
+            "Total Coliform": 2,
+            "Fecal Coliform": 5,
             "Temprature"   : "39",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "04-06-2014",
@@ -87,6 +94,9 @@
                 },
                 "Disolved_Oxygen":27
             },
+            "BOD"           : 27,
+            "Total Coliform": 2,
+            "Fecal Coliform": 2,
             "Temprature"   : "34",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "02-07-2014",
@@ -117,6 +127,9 @@
                 },
                 "Disolved_Oxygen": 34
             },
+            "BOD"           : 58,
+            "Total Coliform": 8,
+            "Fecal Coliform": 7,
             "Temprature"   : "34",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "03-08-2014",
@@ -148,6 +161,9 @@
                 },
                 "Disolved_Oxygen": 12
             },
+            "BOD"           : 30,
+            "Total Coliform": 0,
+            "Fecal Coliform": 5,
             "Temprature"   : "24",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "09-09-2015",
@@ -210,6 +226,9 @@
                 },
                 "Disolved_Oxygen": 51
             },
+            "BOD"           : 28,
+            "Total Coliform": 0,
+            "Fecal Coliform": 3,
             "Temprature"   : "33",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "05-04-2014",
@@ -241,6 +260,9 @@
                 },
                 "Disolved_Oxygen": 19
             },
+            "BOD"           : 58,
+            "Total Coliform": 15,
+            "Fecal Coliform": 9,
             "Temprature"   : "29",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "09-11-2016",
@@ -272,6 +294,9 @@
                 },
                 "Disolved_Oxygen": 56
             },
+            "BOD"           : 18,
+            "Total Coliform": 2,
+            "Fecal Coliform": 0,
             "Temprature"   : "39",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "04-06-2014",
@@ -303,6 +328,10 @@
                 },
                 "Disolved_Oxygen": 34
             },
+
+            "BOD"           : 13,
+            "Total Coliform": 0,
+            "Fecal Coliform": 0,
             "Temprature"   : "19",
             "River"        : "Yamuna",
             "Time_Of_Sample" : "14-10-2014",
@@ -334,6 +363,9 @@
                 },
                 "Disolved_Oxygen": 14
             },
+            "BOD"           : 52,
+            "Total Coliform": 9,
+            "Fecal Coliform": 11,
             "Temprature"   : 34,
             "River"        : "Narmada",
             "Time_Of_Sample" : "03-02-2014",
@@ -365,6 +397,9 @@
                 },
                 "Disolved_Oxygen": 34
             },
+            "BOD"           : 49,
+            "Total Coliform": 12,
+            "Fecal Coliform": 9,
             "Temprature"   : "39",
             "River"        : "Narmada",
             "Time_Of_Sample" : "04-06-2014",
@@ -396,6 +431,9 @@
                 },
                 "Disolved_Oxygen":27
             },
+            "BOD"           : 29,
+            "Total Coliform": 6,
+            "Fecal Coliform": 2,
             "Temprature"   : "34",
             "River"        : "Narmada",
             "Time_Of_Sample" : "02-07-2014",
@@ -426,6 +464,9 @@
                 },
                 "Disolved_Oxygen": 34
             },
+            "BOD"           : 16,
+            "Total Coliform": 3,
+            "Fecal Coliform": 0,
             "Temprature"   : "34",
             "River"        : "Narmada",
             "Time_Of_Sample" : "03-08-2014",
@@ -457,6 +498,9 @@
                 },
                 "Disolved_Oxygen": 12
             },
+            "BOD"           : 28,
+            "Total Coliform": 3,
+            "Fecal Coliform": 2,
             "Temprature"   : "24",
             "River"        : "Narmada",
             "Time_Of_Sample" : "09-09-2015",
@@ -488,6 +532,9 @@
                 },
                 "Disolved_Oxygen": 34
             },
+            "BOD"           : 10,
+            "Total Coliform": 0,
+            "Fecal Coliform": 0,
             "Temprature"   : "26",
             "River"        : "Narmada",
             "Time_Of_Sample" : "03-07-2015",
@@ -519,6 +566,9 @@
                 },
                 "Disolved_Oxygen": 51
             },
+            "BOD"           : 15,
+            "Total Coliform": 4,
+            "Fecal Coliform": 3,
             "Temprature"   : "33",
             "River"        : "Narmada",
             "Time_Of_Sample" : "05-04-2014",
@@ -550,6 +600,9 @@
                 },
                 "Disolved_Oxygen": 19
             },
+            "BOD"           : 39,
+            "Total Coliform": 8,
+            "Fecal Coliform": 7,
             "Temprature"   : "29",
             "River"        : "Narmada",
             "Time_Of_Sample" : "09-11-2016",
@@ -581,6 +634,9 @@
                 },
                 "Disolved_Oxygen": 56
             },
+            "BOD"           : 27,
+            "Total Coliform": 3,
+            "Fecal Coliform": 1,
             "Temprature"   : "39",
             "River"        : "Narmada",
             "Time_Of_Sample" : "04-06-2014",
@@ -612,6 +668,9 @@
                 },
                 "Disolved_Oxygen": 34
             },
+            "BOD"           : 23,
+            "Total Coliform": 1,
+            "Fecal Coliform": 0,
             "Temprature"   : "19",
             "River"        : "Narmada",
             "Time_Of_Sample" : "14-10-2014",
